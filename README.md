@@ -99,4 +99,4 @@ customer-shopping-behavior-analysis/
 
 ## Author
 
-**[Your Name]** | [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
+**Rupjit Das** | [LinkedIn](https://www.linkedin.com/in/rupjit) | [GitHub](https://github.com/RUPJIT-code)
